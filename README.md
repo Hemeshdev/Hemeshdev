@@ -4,17 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A guy who loves coding
 ----------------------
 
-👋 Hello there! I'm Hemesh Animini, a passionate and driven Electrical and Electronics Engineering student at the National Institute of Technology Andhra Pradesh. My journey in technology has been marked by a commitment to innovation and a relentless pursuit of excellence.
-
-🎓 Currently pursuing my Bachelor of Technology degree , I've honed my skills in various domains including Data Structures, Full Stack Development, Algorithms Analysis, and Artificial Intelligence. 
-
-⚙️ Proficient in an array of programming languages and technologies including JavaScript, Python, React, Node.js, and more, I'm adept at tackling complex challenges and delivering scalable solutions. My dedication to continuous learning is reflected in my achievements, from solving over 500 algorithmic problems on platforms like LeetCode and Geeks for Geeks, to securing a top 1% badge in Database Management from NPTEL.
-
-🚀 Whether it's coding contests on platforms like Codeforces and AtCoder, or collaborating on exciting new projects, I'm always eager to explore and contribute to the ever-evolving world of technology. 
-
-📚 Apart from my technical prowess, I'm fluent in English, Telugu, and have elementary proficiency in Hindi, enabling effective communication and collaboration across diverse teams.
-
-🔗 Connect with me on LinkedIn and explore my projects on GitHub! Let's innovate, collaborate, and build a better tomorrow through technology.
+👋 Hello there! I'm Hemesh Animini, a passionate and driven Electrical and Electronics Engineering student at the National Institute of Technology Andhra Pradesh. My journey in technology has been marked by a commitment to innovation and a relentless pursuit of excellence. 🎓 Currently pursuing my Bachelor of Technology degree , I've honed my skills in various domains including Data Structures, Full Stack Development, Algorithms Analysis, and Artificial Intelligence. ⚙️ Proficient in an array of programming languages and technologies including JavaScript, Python, React, Node.js, and more, I'm adept at tackling complex challenges and delivering scalable solutions. My dedication to continuous learning is reflected in my achievements, from solving over 500 algorithmic problems on platforms like LeetCode and Geeks for Geeks, to securing a top 1% badge in Database Management from NPTEL. 🚀 Whether it's coding contests on platforms like Codeforces and AtCoder, or collaborating on exciting new projects, I'm always eager to explore and contribute to the ever-evolving world of technology. 📚 Apart from my technical prowess, I'm fluent in English, Telugu, and have elementary proficiency in Hindi, enabling effective communication and collaboration across diverse teams. 🔗 Connect with me on LinkedIn and explore my projects on GitHub! Let's innovate, collaborate, and build a better tomorrow through technology.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [animinihemesh@gmail.com](mailto:animinihemesh@gmail.com)
@@ -36,5 +26,3 @@ A guy who loves coding
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Hemeshdev"><img src="https://github-readme-stats.vercel.app/api?username=Hemeshdev&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hemeshdev's GitHub stats" /></a>
-
-<a href="http://www.github.com/Hemeshdev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hemeshdev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
